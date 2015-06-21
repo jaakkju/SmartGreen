@@ -1,0 +1,11 @@
+Inside:
+
+Width 4 cm
+Length 5 cm
+Height 4 cm
+
+Outside:
+
+Width 4.3 cm
+Length 5.3 cm
+Height 4.3 cm

@@ -1,0 +1,54 @@
+body {
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+/*  stroke: steelblue;*/
+  stroke-width: 1.5px;
+}
+
+.current {
+  font-size: 72px;
+}
+
+.current.temperature {
+  color: red;
+}
+
+.current.humidity {
+  color: steelblue;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline;
+}
+
+/*.chart {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  vertical-align: top;
+  overflow: hidden;
+}
+.svg-content-responsive {
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}*/
+
+#humidity_visualization {
+  margin-right: 15px;
+}

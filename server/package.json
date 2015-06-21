@@ -1,0 +1,33 @@
+{
+  "name": "SmartGreen-server",
+  "version": "0.0.1",
+  "description": "SmartGreen",
+  "author": "Juhani Jaakkola",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "~4.9.x",
+    "gulp-connect": "^2.2.0",
+    "mongoose": "^4.0.1",
+    "morgan": "^1.5.2",
+    "underscore": "^1.8.3",
+    "winston": "^1.0.0"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.10.0",
+    "jshint-stylish": "^1.0.1"
+  }
+}
