@@ -1,0 +1,913 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"doQuery"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"deci",
+				"devices"
+			],
+			[
+				"cah",
+				"cache"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"fi",
+				"fi_FI"
+			],
+			[
+				"tick",
+				"tickFormat"
+			],
+			[
+				"for",
+				"formatNumber"
+			],
+			[
+				"format",
+				"formatPrice"
+			],
+			[
+				"new",
+				"newEntry"
+			],
+			[
+				"yr",
+				"yRmax"
+			],
+			[
+				"yl",
+				"yLMax"
+			],
+			[
+				"min",
+				"minMax"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"displa",
+				"display"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"pure",
+				"pure-menu-link"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"std",
+				"stderr"
+			],
+			[
+				"consol",
+				"console"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"dia",
+				"dialogId"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"conso",
+				"console"
+			],
+			[
+				"cons",
+				"huskifyControllers"
+			],
+			[
+				"selec",
+				"clickSelected"
+			],
+			[
+				"toggle",
+				"toggleLeader"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"cli",
+				"clickSelected"
+			],
+			[
+				"le",
+				"leader"
+			],
+			[
+				"selected",
+				"selectedIdx"
+			],
+			[
+				"sledge",
+				"sledges"
+			],
+			[
+				"sle",
+				"sledges"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border-le",
+				"border-left:   (property)"
+			],
+			[
+				"Sle",
+				"Sledges"
+			],
+			[
+				"dog",
+				"dogs"
+			],
+			[
+				"sp",
+				"splice  (function)"
+			],
+			[
+				"i",
+				"idx"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"clea",
+				"clean-tmp"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"mini",
+				"minify-html"
+			],
+			[
+				"con",
+				"concat"
+			],
+			[
+				"li",
+				"lint"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"bower_components"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"wor",
+				"wordClick"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"so",
+				"something"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"search",
+				"searchbox"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"al",
+				"align"
+			],
+			[
+				"get",
+				"getTime  (function)"
+			],
+			[
+				"Re",
+				"Requesting"
+			],
+			[
+				"sty",
+				"stylesheets"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"th",
+				"throttle"
+			],
+			[
+				"ca",
+				"carPosition"
+			],
+			[
+				"switch",
+				"switch  (keyword)"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"Stream",
+				"StreamCatalogController"
+			],
+			[
+				"margin-",
+				"margin-left:   (property)"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"can",
+				"can_preview"
+			],
+			[
+				"top",
+				"topicID"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"subs",
+				"subscription"
+			],
+			[
+				"su",
+				"suID"
+			],
+			[
+				"stream",
+				"streamcatalog"
+			],
+			[
+				"Apa",
+				"Apache2"
+			],
+			[
+				"confi",
+				"configuration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/repositories/SmartGreen/server/readme.md",
+		"/C/repositories/SmartGreen/server/routes/dataRoute.js",
+		"/C/repositories/SmartGreen/readme.md",
+		"/C/repositories/SmartGreen/SmartGreen_reset_to_server.md",
+		"/C/repositories/SmartGreen/server/configs/database.js",
+		"/C/repositories/temperi/arduino/Temperi/Temperi.ino",
+		"/C/repositories/temperi/readme.md",
+		"/C/repositories/temperi/server/client/src/views/main.html",
+		"/C/repositories/temperi/server/client/src/less/header.less",
+		"/C/repositories/temperi/server/client/src/controllers/main.js",
+		"/C/repositories/temperi/arduino/readme.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/SmartGarden/Temperi-server-example/main.js",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/SmartGarden/Temperi-server-example/chart_directive.js",
+		"/C/Users/jaakkju/Documents/Arduino/DHTtester/DHTtester.ino",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/SmartGarden/DHT/README.txt",
+		"/C/repositories/temperi/examples/bareminimum_http_requiest.md",
+		"/C/repositories/GreenHouse/SmartGreen/.gitignore",
+		"/C/Users/jaakkju/Downloads/Narcoleptic_v1a/Narcoleptic/Narcoleptic.cpp",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/SmartGarden/Temperi-server-example/package.json",
+		"/C/repositories/temperi/server/README.md",
+		"/C/repositories/temperi/server/client/src/directives/chart_directive.js",
+		"/C/repositories/temperi/server/logger.js",
+		"/C/repositories/temperi/server/client/Gulpfile.js",
+		"/C/repositories/temperi/server/client/src/index.html",
+		"/C/repositories/temperi/server/ePricesQuery.js",
+		"/C/repositories/temperi/server/client/src/less/variables.less",
+		"/C/repositories/temperi/server/client/src/less/about.less",
+		"/C/repositories/temperi/server/client/src/less/footer.less",
+		"/C/repositories/temperi/server/client/src/less/index.less",
+		"/C/repositories/temperi/server/client/src/less/main.less",
+		"/C/repositories/temperi/server/client/bower.json",
+		"/C/tools/Git/ssl/openssl.cnf",
+		"/C/Users/jaakkju/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/Other material/Sisallysluettelo_V1_1.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/Other material/Sisallysluettelo-v0_3.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/sisallysluettelo.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/Other material/Aihemäärittely-v0_0_1.md",
+		"/C/repositories/temper/server/temp.txt",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/Other material/Sisallysluettelo-v0_2.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/lahdeluettelo.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/haastattelut.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/aikataulutus.md",
+		"/C/Users/jaakkju/Desktop/gradu-lomake.htm",
+		"/C/Users/jaakkju/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/Other material/Sisallysluettelo-v0_1.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/masters-thesis/aihekuvaus.md",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/HiCollege - Hadoop training - hands-on/loremipsum.txt",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/HiCollege - Hadoop training - hands-on/json-example.json",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/HiCollege - Hadoop training - hands-on/readme.md",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/.subl29.tmp",
+		"/C/Users/jaakkju/Dropbox/Projektit/SpotPrice/query.js",
+		"/C/Users/jaakkju/Dropbox/projektit/SpotPrice/package.json",
+		"/C/Users/jaakkju/Dropbox/projektit/SpotPrice/result2-txt",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/SearchCloud/README.md",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/about.html",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/scripts/huskify.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/build/css/huskify.css",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/scripts/routes.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/css/huskify.css",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/Gulpfile.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/bower.json",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/scripts/controllers.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/organizer.html",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/build/print.html",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/index.html.old",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/images/banner.jpg",
+		"/C/Users/jaakkju/Downloads/pure-layout-pricing (1)/css/layouts/pricing.css",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/index.html",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/build/huskify.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/css/main-grid-old-ie.css",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/src/css/main-grid.css",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/tmp/main.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/build/main.min.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/package.json",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/build/main.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/public/scripts/huskify.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/public/scripts/jquery-ui-1.10.4.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/huskify/public/scripts/jquery-1.10.2.js",
+		"/home/nullbox/Dropbox/Projektit/CloudSearch/routes/app.log",
+		"/home/nullbox/Dropbox/Projektit/CloudSearch/public/stylesheets/style.css",
+		"/home/nullbox/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/nullbox/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/nullbox/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/nullbox/Dropbox/Projektit/CloudSearch/Gulpfile.js",
+		"/home/nullbox/Dropbox/Projektit/CloudSearch/bower.json",
+		"/home/nullbox/Dropbox/Projektit/CloudSearch/package.json",
+		"/home/nullbox/Dropbox/Projektit/CloudSearch/public/javascripts/jquery.js",
+		"/home/nullbox/Dropbox/Projektit/CloudSearch/public/javascripts/jqcloud-1.0.4.min.js",
+		"/home/nullbox/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/public/javascripts/scripts.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/public/javascripts/site.js",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/public/stylesheets/bootstrap-responsive.css",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/Procfile",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/app.log",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/.app.log",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/.gitignore",
+		"/C/Users/jaakkju/Dropbox/Projektit/CloudSearch/.project",
+		"/C/Users/jaakkju/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/jaakkju/Dropbox/Opiskelu/Data- and Value Driven Software Engineering with Deep Customer Insight/README.txt",
+		"/C/tools/Sublime Text 3/changelog.txt",
+		"/C/repository/elbas4/apiclient_fx/src/main/java/com/npspot/elbasclient/HeartBeatTimerHandler.java",
+		"/C/repository/elbas4/tools/vagrant/chef/cookbooks/java/libraries/helpers.rb",
+		"/C/repository/elbas4/common-server-lib/security-management/target/test-classes/hardcodedusers.ini",
+		"/C/Users/jaakkju/Desktop/NordPool-Project_diary.txt",
+		"/C/repository/elbas4/README.md",
+		"/C/projects/NordPool/tekemista-alkuun.txt",
+		"/C/Users/jaakkju/Desktop/2.txt",
+		"/C/Users/jaakkju/Desktop/1.txt",
+		"/C/repository/elbas4/tools/vagrant/instances/devha/Vagrantfile",
+		"/C/repository/elbas4/.git/config",
+		"/C/repository/elbas4/configuration/settings.xml",
+		"/C/repository/ckan-vagrant-bash/repository/ckanext-streamcatalog/README.md",
+		"/C/repository/ckan-vagrant-bash/README.md",
+		"/C/repository/vaisalantienvauhti/README.md",
+		"/C/repository/ckan-vagrant-bash/provision/main.sh",
+		"/C/repository/ckan-vagrant-shell/Vagrantfile",
+		"/C/repository/vaisalantienvauhti/server.js",
+		"/C/repository/vaisalantienvauhti/test/throttle.json",
+		"/C/repository/vaisalantienvauhti/test/join.json",
+		"/C/repository/vaisalantienvauhti/actions/join.js",
+		"/C/repository/vaisalantienvauhti/actions/init.js",
+		"/C/repository/vaisalantienvauhti/actions/position.js",
+		"/C/repository/vaisalantienvauhti/actions/index.js",
+		"/C/repository/vaisalantienvauhti/test/yourcar.json",
+		"/C/repository/vaisalantienvauhti/test/gameinit.json",
+		"/C/repository/vaisalantienvauhti/test/gamestart.json",
+		"/C/repository/vaisalantienvauhti/test/carpositions.json",
+		"/C/repository/vaisalantienvauhti/test/gameend.json"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 248.0,
+		"where_history":
+		[
+			"<open files>",
+			"",
+			"C:\\projects\\ckan-vagrant-shell"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AT+CWMODE=1",
+			"POST",
+			"post",
+			"data",
+			"d",
+			"pure-menu",
+			"div",
+			"Querying latest electricity prices.",
+			">\n",
+			"console.log($translate.use());",
+			"ssh",
+			"exec",
+			"ls",
+			"paths",
+			"  \n",
+			"\">\n",
+			"',\n",
+			"ng-dialog-show-close=\"false\"",
+			"huskify.config(['ngDialogProvider', function (ngDialogProvider) {\n    ngDialogProvider.setDefaults({\n        className: 'ngdialog-theme-default',\n        showClose: true,\n        closeByDocument: true,\n        closeByEscape: true\n    });\n}]);",
+			"}\n",
+			");\n",
+			">\n",
+			");\n",
+			"    \n",
+			");\n",
+			"    \n",
+			"destroy",
+			"toggle",
+			"huskify-table-organize",
+			"huskify-table-sledges",
+			"destroy",
+			"Remove",
+			"undefined",
+			"sledges",
+			"        \n",
+			";\n",
+			"Sledges",
+			"sledges",
+			"Sledges",
+			"sledges",
+			"Sledges",
+			"Data",
+			".huskify-table-organize {\n  margin-top: 0.5em;\n}",
+			";\n",
+			"  \n",
+			"huskify-table-organize",
+			"selec",
+			"huskify-table-selected",
+			"\n                <form class=\"pure-form\" ng-submit=\"createDog()\">\n                    <fieldset>\n                        <input class=\"husky-form\" type=\"text\" placeholder=\"Lisää koira\" ng-model=\"dog\">\n                    </fieldset>\n                </form>",
+			"huskify.factory('Dogs', function () {\n  return [\n         {'name': 'Kalle'},\n         {'name': 'Matti'},\n         {'name': 'Teppo'}\n   ];\n});\n",
+			"        \n",
+			"  \n",
+			"pricing-tables",
+			"        <div class=\"pure-u-1 pure-u-md-1-2\">\n            <div class=\"l-box\">\n                <h3 class=\"information-head\">Get started today</h3>\n                <p>\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.\n                </p>\n            </div>\n        </div>\n\n        <div class=\"pure-u-1 pure-u-md-1-2\">\n            <div class=\"l-box\">\n                <h3 class=\"information-head\">Pay monthly or annually</h3>\n                <p>\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo\n                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.\n                </p>\n            </div>\n        </div>\n\n        <div class=\"pure-u-1 pure-u-md-1-2\">\n            <div class=\"l-box\">\n                <h3 class=\"information-head\">24/7 customer support</h3>\n                <p>\n                    Cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n                </p>\n            </div>\n        </div>\n\n        <div class=\"pure-u-1 pure-u-md-1-2\">\n            <div class=\"l-box\">\n                <h3 class=\"information-head\">Cancel your plan anytime</h3>\n                <p>\n                    Duis aute irure dolor in reprehenderit in voluptate velit esse\n                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n                </p>\n            </div>\n        </div>\n",
+			"()",
+			"  ",
+			"dest",
+			"minify",
+			"watch",
+			"scripts",
+			".'",
+			"javascript",
+			"'\n",
+			"path",
+			"*/\n",
+			"	\n",
+			"query",
+			"wordClicked",
+			"doQuery",
+			"wordClick",
+			"click",
+			"wordClick",
+			"process",
+			"c",
+			"comment",
+			"	\n",
+			"wordcloud",
+			"        \n",
+			"cloud",
+			"Express",
+			"jdbc:oracle:thin*",
+			"flyway",
+			"http://binaries.erlang-solutions.com/rpm/centos/6/x86_64/repodata/repomd.xml",
+			"replyToSocket",
+			"gameInit",
+			"name",
+			"client",
+			"socket",
+			" \n",
+			"svr",
+			"sock",
+			"\n{%",
+			"btn btn-primary btn-xs",
+			"sm",
+			"btn-xs",
+			"pure-button pure-button-primary",
+			"a",
+			"\">\n",
+			"plugins",
+			"style",
+			"        \n",
+			"console",
+			"    \n",
+			"BrokerClient",
+			"mmea",
+			"storage",
+			"Permission",
+			"permission",
+			"site.id",
+			"package",
+			"package_ports",
+			"vagrant",
+			"n",
+			"vagrant",
+			"current"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"huskify-button",
+			"huskify-table-organize"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SmartGreen.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hear",
+				"apiclient_fx\\src\\main\\java\\com\\npspot\\elbasclient\\HeartBeatTimerHandler.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\repositories\\ericson-iot-demo\\ericson-iot-demo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 640.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
