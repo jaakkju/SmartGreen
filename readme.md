@@ -16,6 +16,8 @@ Backend is running in Heroku (PaaS) platform and data is stored to MongoDB (Mong
 # 3D Printed parts
 2x Device box and cover
 
+## Some commands
+
 ### Start localhost MongoDB
 mongod --dbpath c:\tools\mongoDB\Data\
 
